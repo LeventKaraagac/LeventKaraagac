@@ -1,13 +1,13 @@
-<h1>Hi, I'm Levent! (Editing)<br/></h1>
+<h1>Hi, I'm Levent!, a Junior Cybersecurity Analyst<br/></h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Praciting DS & Algos in Python](https://github.com/LeventKaraagac/LABURL)
 
   
 <h2>👨‍💻 Certifications:</h2>
 
-- [CompTIA Security+(SYO-701)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [CompTIA Security+(SYO-701)](https://github.com/LeventKaraagac/LABURL)
 
 <h2>📺 Popular YouTube Videos</h2>
 
