@@ -2,32 +2,25 @@
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/LeventKaraagac/LABURL)
+- [Building a Basic Home SOC Lab for Threat Detection and Analysis](https://github.com/LeventKaraagac/BasicHomeSOCLab/blob/main/README.md)
+- [Building a Full SOC Automation Environment](https://github.com/LeventKaraagac/BasicHomeSOCLab/blob/main/README.md)
 
   
 <h2>👨‍💻 Certifications:</h2>
 
-- [CompTIA Security+(SYO-701)](https://github.com/LeventKaraagac/LABURL)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+(SYO-701)](https://www.credly.com/earner/earned/badge/f50f0c19-07de-4ace-ab45-96cd4dca3faf)
+- [Google Cybersecurity Professional Certificate V2](https://www.credly.com/earner/earned/badge/811a3783-e132-49eb-9533-210cb19b59fb)
+- [Splunk Search Expert Specialization Certificate](https://i.imgur.com/GfIOsm7.jpeg)
+- [FutureCollars Python Developer Certificate](https://i.imgur.com/L0pzBZp.png)
+- [TryHackMe Cybersecurity Learning Paths & Cybersecurity 101](https://i.imgur.com/6lagg25.png)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LeventKaraagac | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/levent-karaagac/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
