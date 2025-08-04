@@ -4,7 +4,7 @@
 
 - [Building a Basic Home SOC Lab for Threat Detection and Analysis](https://github.com/LeventKaraagac/BasicHomeSOCLab)
 - [Building a Full SOC Automation Environment](https://github.com/LeventKaraagac/BuildingFullSOCAutomationEnvironment)
-- Building a Honeypot with Azure and Feeding My Own Threat Intelligence(documentation in progress)
+- [Building a Honeypot with Azure and Feeding My Own Threat Intelligence](https://github.com/LeventKaraagac/BuildingHoneypotWithAzureAndFeedingOurOwnThreatIntelligence)
 - Creating a Home SOC with Azure and Building Attacker Maps(documentation in progress)
 - Setting up Active Directory and Configuring With Powershell (documentation in process)
 
