@@ -22,7 +22,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LeventKaraagac | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LeventKaraagac | Medium" width="22px" src="https://i.imgur.com/a3ZKIDp.png" />][Medium]
 
+[Medium]: https://medium.com/@LeventKaraagac
 [linkedin]: https://www.linkedin.com/in/levent-karaagac/
 
 <!--
