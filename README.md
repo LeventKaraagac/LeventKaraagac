@@ -1,4 +1,4 @@
-<h1>Hi, I'm Levent!,a Cybersecurity Analyst<br/></h1>
+<h1>Hi, I'm Levent!, a Cybersecurity Analyst<br/></h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
