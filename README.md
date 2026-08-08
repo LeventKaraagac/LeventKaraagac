@@ -4,10 +4,10 @@ I'm a Computer Science graduate specializing in Cybersecurity & Computer Network
 
 Outside of security work, I co-founded a small AI Voice Agent automation startup, spent time in QA testing games as my day job (yes, that means I get paid to break things on purpose), and I'm currently based in Warsaw, Poland. I'd rather learn by doing than by reading about it, which is probably obvious from how many of the projects below are "built, write-up pending."
 
-🌍 Based in Warsaw, Poland — relocating to Spain
-🎸 Outside of tech: I play guitar, ride motorcycles, and I'm currently learning Spanish for the move
-💬 Ask me about: cybersecurity, home labs, or good motorcycle routes
-📫 Reach me: LinkedIn or Medium (linked below)
+- 🌍 Based in Warsaw, Poland
+- 🎸 Outside of tech: I play guitar, ride motorcycles, and I'm currently learning Spanish
+- 💬 Ask me about: cybersecurity, project ideas, home labs, or good motorcycle routes
+- 📫 Reach me: LinkedIn or Medium (linked below)
 
 ## 👨‍💻 My Cybersecurity Projects
 
