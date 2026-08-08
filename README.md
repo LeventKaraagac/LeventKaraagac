@@ -1,31 +1,39 @@
-<h1>Hi, I'm Levent!, a Cybersecurity Analyst<br/></h1>
+# Hi, I'm Levent — Computer Science Graduate | Cybersecurity & Cloud Security
 
-<h2>👨‍💻 My Cybersecurity Projects:</h2>
+I'm a Computer Science graduate specializing in Cybersecurity & Computer Networks Engineering, currently building hands-on experience across intrusion detection, SOC operations, cloud security, and identity management — some through formal study and work, most through just building things myself and figuring out how they break. I like understanding systems from the inside: how they're built, how they fail, and how to make them more resilient.
 
+Outside of security work, I co-founded a small AI Voice Agent automation startup, spent time in QA testing games as my day job (yes, that means I get paid to break things on purpose), and I'm currently based in Warsaw, Poland. I'd rather learn by doing than by reading about it, which is probably obvious from how many of the projects below are "built, write-up pending."
+
+🌍 Based in Warsaw, Poland — relocating to Spain
+🎸 Outside of tech: I play guitar, ride motorcycles, and I'm currently learning Spanish for the move
+💬 Ask me about: cybersecurity, home labs, or good motorcycle routes
+📫 Reach me: LinkedIn or Medium (linked below)
+
+## 👨‍💻 My Cybersecurity Projects
+
+- 🎓 [**Lightweight Python-Based Intrusion Detection System**](https://github.com/LeventKaraagac/python-intrusion-detection-system) — my Engineering Thesis. Built and tested a signature-based IDS detecting port scans and high-volume traffic, with a live Flask alert dashboard, validated in a two-VM attacker/victim lab.
 - [Building a Basic Home SOC Lab for Threat Detection and Analysis](https://github.com/LeventKaraagac/BasicHomeSOCLab)
-- [Building a Full SOC Automation Environment](https://github.com/LeventKaraagac/BuildingFullSOCAutomationEnvironment)
+- [Building a Full SOC Automation Environment (Wazuh + TheHive + Shuffle)](https://github.com/LeventKaraagac/BuildingFullSOCAutomationEnvironment)
 - [Building a Honeypot with Azure and Feeding My Own Threat Intelligence](https://github.com/LeventKaraagac/BuildingHoneypotWithAzureAndFeedingOurOwnThreatIntelligence)
-- Creating a Home SOC with Azure and Building Attacker Maps(documentation in progress)
-- Setting up Active Directory and Configuring With Powershell (documentation in process)
+- Creating a Home SOC with Azure and Building Attacker Maps *(build complete, write-up pending)*
+- Setting up Active Directory and Configuring with PowerShell *(build complete, write-up pending)*
 
+## 🎓 Certifications
 
+- [CompTIA Security+ (SY0-701)](https://www.credly.com/earner/earned/badge/f50f0c19-07de-4ace-ab45-96cd4dca3faf)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/earner/earned/badge/811a3783-e132-49eb-9533-210cb19b59fb)
+- [Splunk Search Expert Specialization](https://coursera.org/verify/specialization/CPJ4BP48WASX) — Coursera
+- [Python Developer Certificate](https://ude.my/UC-3f8a5e6f-ad6e-4c6d-bd61-c37644f7ef15) — Future Collars, 350 hours
+- [TryHackMe: Pre Security, Introduction to Cyber Security, Cyber Security 101](https://tryhackme.com/p/LeventKaraagac) — Learning Paths
 
-  
-<h2>👨‍💻 Certifications:</h2>
+## 🛠️ Core Skills
 
-- [CompTIA Security+(SYO-701)](https://www.credly.com/earner/earned/badge/f50f0c19-07de-4ace-ab45-96cd4dca3faf)
-- [Google Cybersecurity Professional Certificate V2](https://www.credly.com/earner/earned/badge/811a3783-e132-49eb-9533-210cb19b59fb)
-- [Splunk Search Expert Specialization Certificate](https://i.imgur.com/GfIOsm7.jpeg)
-- [FutureCollars Python Developer Certificate](https://i.imgur.com/L0pzBZp.png)
-- [TryHackMe Cybersecurity Learning Paths & Cybersecurity 101](https://i.imgur.com/6lagg25.png)
+`Python` `SQL` `PowerShell` `Wireshark/TShark` `Nmap` `Splunk` `Microsoft Entra ID` `Microsoft Defender` `Microsoft Purview` `Linux (Ubuntu, Kali)` `Windows Server / Active Directory` `Microsoft Azure` `Flask` `Git/GitHub`
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me
 
-[<img align="left" alt="LeventKaraagac | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LeventKaraagac | Medium" width="22px" src="https://i.imgur.com/a3ZKIDp.png" />][Medium]
-
-[Medium]: https://medium.com/@LeventKaraagac
-[linkedin]: https://www.linkedin.com/in/levent-karaagac/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levent-karaagac/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LeventKaraagac)
 
 <!--
 Here are some ideas to get you started:
