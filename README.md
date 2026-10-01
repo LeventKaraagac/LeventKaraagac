@@ -1,4 +1,4 @@
-# Hi, I'm Levent — Computer Science Graduate | Cybersecurity & Cloud Security
+# Hi, I'm Levent — Security Engineer | Computer Science Graduate | Cybersecurity & Cloud Security
 
 I'm a Computer Science graduate specializing in Cybersecurity & Computer Networks Engineering, currently building hands-on experience across intrusion detection, SOC operations, cloud security, and identity management — some through formal study and work, most through just building things myself and figuring out how they break. I like understanding systems from the inside: how they're built, how they fail, and how to make them more resilient.
 
@@ -8,6 +8,10 @@ Outside of security work, I co-founded a small AI Voice Agent automation startup
 - 🎸 Outside of tech: I play guitar, ride motorcycles, and I'm currently learning Spanish
 - 💬 Ask me about: cybersecurity, project ideas, home labs, or good motorcycle routes
 - 📫 Reach me: LinkedIn or Medium (linked below)
+
+## 🚧 Currently Building
+
+**Microsoft 365 Security Foundations** — a series of practical guides to securing Microsoft 365 for small and growing businesses (Entra ID, Intune, Defender, Purview, and Sentinel). Based on a real production implementation I'm leading end-to-end, not a lab environment. First guides publishing soon — check back, or follow here for updates. 🚀
 
 ## 👨‍💻 My Cybersecurity Projects
 
