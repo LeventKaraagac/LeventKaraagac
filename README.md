@@ -23,7 +23,7 @@ Outside of security work, I co-founded a small AI Voice Agent automation startup
 - Setting up Active Directory and Configuring with PowerShell *(build complete, write-up pending)*
 
 ## 🎓 Certifications
-
+- [SC-200: Microsoft Security Operations Analyst](https://coursera.org/verify/L5FX306KRKCP)
 - [CompTIA Security+ (SY0-701)](https://www.credly.com/earner/earned/badge/f50f0c19-07de-4ace-ab45-96cd4dca3faf)
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/earner/earned/badge/811a3783-e132-49eb-9533-210cb19b59fb)
 - [Splunk Search Expert Specialization](https://coursera.org/verify/specialization/CPJ4BP48WASX) — Coursera
