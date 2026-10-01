@@ -13,11 +13,11 @@ Outside of security work, I co-founded a small AI Voice Agent automation startup
 
 **Microsoft 365 Security Foundations** — a series of practical guides to securing Microsoft 365 for small and growing businesses (Entra ID, Intune, Defender, Purview, and Sentinel). Based on a real production implementation I'm leading end-to-end, not a lab environment. First guides publishing soon — check back, or follow my repros for updates 🚀
 
-- 🔑 [Entra ID Security Guide](https://github.com/LeventKaraagac/microsoft-entra-id-security-guide) *(dcumentation ongoing)*
-- 📱 [Intune Device Management Guide](https://github.com/LeventKaraagac/microsoft-intune-device-management-guide) *(dcumentation planned)*
-- 🛡️ [Defender Threat Protection Guide](https://github.com/LeventKaraagac/microsoft-defender-threat-protection-guide) *(dcumentation planned)*
-- 🔒 [Purview Data Governance Guide](https://github.com/LeventKaraagac/microsoft-purview-data-governance-guide) *(dcumentation planned)*
-- 📊 [Sentinel SIEM/SOAR Guide](https://github.com/LeventKaraagac/microsoft-sentinel-siem-soar-guide) *(dcumentation planned)*
+- 🔑 [Entra ID Security Guide](https://github.com/LeventKaraagac/microsoft-entra-id-security-guide) *(documentation ongoing)*
+- 📱 [Intune Device Management Guide](https://github.com/LeventKaraagac/microsoft-intune-device-management-guide) *(documentation planned)*
+- 🛡️ [Defender Threat Protection Guide](https://github.com/LeventKaraagac/microsoft-defender-threat-protection-guide) *(documentation planned)*
+- 🔒 [Purview Data Governance Guide](https://github.com/LeventKaraagac/microsoft-purview-data-governance-guide) *(documentation planned)*
+- 📊 [Sentinel SIEM/SOAR Guide](https://github.com/LeventKaraagac/microsoft-sentinel-siem-soar-guide) *(documentation planned)*
 
 ## 👨‍💻 My Cybersecurity Projects
 
