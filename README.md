@@ -1,4 +1,4 @@
-# Hi, I'm Levent — Security Engineer | Computer Science Graduate | Cybersecurity & Cloud Security
+# Hi, I'm Levent — Security Engineer & Computer Science Graduate
 
 I'm a Computer Science graduate specializing in Cybersecurity & Computer Networks Engineering, currently building hands-on experience across intrusion detection, SOC operations, cloud security, and identity management — some through formal study and work, most through just building things myself and figuring out how they break. I like understanding systems from the inside: how they're built, how they fail, and how to make them more resilient.
 
@@ -11,7 +11,13 @@ Outside of security work, I co-founded a small AI Voice Agent automation startup
 
 ## 🚧 Currently Building
 
-**Microsoft 365 Security Foundations** — a series of practical guides to securing Microsoft 365 for small and growing businesses (Entra ID, Intune, Defender, Purview, and Sentinel). Based on a real production implementation I'm leading end-to-end, not a lab environment. First guides publishing soon — check back, or follow here for updates. 🚀
+**Microsoft 365 Security Foundations** — a series of practical guides to securing Microsoft 365 for small and growing businesses (Entra ID, Intune, Defender, Purview, and Sentinel). Based on a real production implementation I'm leading end-to-end, not a lab environment. First guides publishing soon — check back, or follow my repros for updates 🚀
+
+- 🔑 [Entra ID Security Guide](https://github.com/LeventKaraagac/microsoft-entra-id-security-guide) *(dcumentation ongoing)*
+- 📱 [Intune Device Management Guide](https://github.com/LeventKaraagac/microsoft-intune-device-management-guide) *(dcumentation planned)*
+- 🛡️ [Defender Threat Protection Guide](https://github.com/LeventKaraagac/microsoft-defender-threat-protection-guide) *(dcumentation planned)*
+- 🔒 [Purview Data Governance Guide](https://github.com/LeventKaraagac/microsoft-purview-data-governance-guide) *(dcumentation planned)*
+- 📊 [Sentinel SIEM/SOAR Guide](https://github.com/LeventKaraagac/microsoft-sentinel-siem-soar-guide) *(dcumentation planned)*
 
 ## 👨‍💻 My Cybersecurity Projects
 
