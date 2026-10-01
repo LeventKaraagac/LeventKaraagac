@@ -1,4 +1,4 @@
-# Hi, I'm Levent — Security Engineer & Computer Science Graduate
+# Hi, I'm Levent — Security Engineer & CS Graduate
 
 I'm a Computer Science graduate specializing in Cybersecurity & Computer Networks Engineering, currently building hands-on experience across intrusion detection, SOC operations, cloud security, and identity management — some through formal study, most through just building things myself and figuring out how they break. I currently manage the Microsoft 365 security stack — Entra ID, Intune, Purview, Defender, and Sentinel — for a live production environment, which is also where the guides below are drawn from. I like understanding systems from the inside: how they're built, how they fail, and how to make them more resilient.
 
