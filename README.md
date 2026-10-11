@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate specializing in Cybersecurity & Computer Networks Engineering, currently building hands-on experience across intrusion detection, SOC operations, cloud security, and identity management — some through formal study, most through just building things myself and figuring out how they break. I currently manage the Microsoft 365 security stack — Entra ID, Intune, Purview, Defender, and Sentinel — for a live production environment, which is also where the guides below are drawn from. I like understanding systems from the inside: how they're built, how they fail, and how to make them more resilient.
 
-Outside of security work, I co-founded a small AI Voice Agent automation startup, spent time in QA testing games as my day job (yes, that means I get paid to break things on purpose), and I'm currently based in Warsaw, Poland. I'd rather learn by doing than by reading about it, which is probably obvious from how many of the projects below are "built, write-up pending."
+Outside of security work at an AI Voice start-up Elivent AI startup, spent time in QA testing games as my day job (yes, that means I get paid to break things on purpose), and I'm currently based in Warsaw, Poland. I'd rather learn by doing than by reading about it, which is probably obvious from how many of the projects below are "built, write-up pending."
 
 - 🌍 Based in Warsaw, Poland
 - 🎸 Outside of tech: I play guitar, ride motorcycles, and I'm currently learning Spanish
