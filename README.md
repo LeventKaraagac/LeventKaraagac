@@ -11,9 +11,9 @@ Outside of security work at an AI Voice start-up Elivent AI startup, spent time 
 
 ## 🚧 Currently Building
 
-**Microsoft 365 Security Foundations** — a series of practical guides to securing Microsoft 365 for small and growing businesses (Entra ID, Intune, Defender, Purview, and Sentinel). Based on a real production implementation I'm leading end-to-end, not a lab environment. First guides publishing soon — check back, or follow my repros for updates 🚀
+**Microsoft 365 Security Foundations** — a series of practical, hands-on guides to securing Microsoft 365 for small and growing businesses (Entra ID, Intune, Defender, Purview, and Sentinel). The first guides are live now, so check back or follow my repos for updates 🚀
 
-- 🔑 [Entra ID Security Guide](https://github.com/LeventKaraagac/microsoft-entra-id-security-guide) *(initial documentation ready)*
+- 🔑 [Entra ID Security Guide](https://github.com/LeventKaraagac/microsoft-entra-id-security-guide) *(published)*
 - 📱 [Intune Device Management Guide](https://github.com/LeventKaraagac/microsoft-intune-device-management-guide) *(documentation planned)*
 - 🛡️ [Defender Threat Protection Guide](https://github.com/LeventKaraagac/microsoft-defender-threat-protection-guide) *(documentation planned)*
 - 🔒 [Purview Data Governance Guide](https://github.com/LeventKaraagac/microsoft-purview-data-governance-guide) *(documentation planned)*
